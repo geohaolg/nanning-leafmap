@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "metro1stat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "石埠(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.177596, 22.826528 ] ] } },
+{ "type": "Feature", "properties": { "name": "南职院(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.192244, 22.83313 ] ] } },
+{ "type": "Feature", "properties": { "name": "鹏飞路(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.202283, 22.833056 ] ] } },
+{ "type": "Feature", "properties": { "name": "西乡塘客运站(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.219156, 22.832924 ] ] } },
+{ "type": "Feature", "properties": { "name": "新民路(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.327324, 22.813042 ] ] } },
+{ "type": "Feature", "properties": { "name": "民族广场(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.33635, 22.813048 ] ] } },
+{ "type": "Feature", "properties": { "name": "麻村(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.347473, 22.813014 ] ] } },
+{ "type": "Feature", "properties": { "name": "南湖(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.363067, 22.813671 ] ] } },
+{ "type": "Feature", "properties": { "name": "金湖广场(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.372356, 22.812895 ] ] } },
+{ "type": "Feature", "properties": { "name": "朝阳广场(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.320842, 22.817093 ] ] } },
+{ "type": "Feature", "properties": { "name": "火车站(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.316335, 22.824874 ] ] } },
+{ "type": "Feature", "properties": { "name": "广西大学(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.291111, 22.831607 ] ] } },
+{ "type": "Feature", "properties": { "name": "白苍岭(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.307154, 22.83107 ] ] } },
+{ "type": "Feature", "properties": { "name": "会展中心(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.383728, 22.812865 ] ] } },
+{ "type": "Feature", "properties": { "name": "万象城(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.392022, 22.813041 ] ] } },
+{ "type": "Feature", "properties": { "name": "东盟商务区(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.399059, 22.813064 ] ] } },
+{ "type": "Feature", "properties": { "name": "凤岭(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.410346, 22.813119 ] ] } },
+{ "type": "Feature", "properties": { "name": "埌东客运站(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.418641, 22.812921 ] ] } },
+{ "type": "Feature", "properties": { "name": "百花岭(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.427946, 22.818109 ] ] } },
+{ "type": "Feature", "properties": { "name": "佛子岭(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.424884, 22.831844 ] ] } },
+{ "type": "Feature", "properties": { "name": "民族大学(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.233018, 22.837229 ] ] } },
+{ "type": "Feature", "properties": { "name": "清川(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.253119, 22.840172 ] ] } },
+{ "type": "Feature", "properties": { "name": "动物园(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.267771, 22.837805 ] ] } },
+{ "type": "Feature", "properties": { "name": "鲁班路(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.283012, 22.834074 ] ] } },
+{ "type": "Feature", "properties": { "name": "火车东站(地铁站)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 108.414091, 22.839677 ] ] } }
+]
+}
